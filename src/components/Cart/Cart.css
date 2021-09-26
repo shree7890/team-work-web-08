@@ -1,0 +1,44 @@
+.cart{
+    text-align: center;
+    box-shadow: 0px 0px 15px rgba(80, 49, 49,0.4);
+    border-radius: 5px;
+    padding: 8px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-left: 14px;
+    background-color: #fff;
+}
+.man{
+    color: #fe696a;
+
+}
+.cart h4{
+    color: green;
+    font-size: 20px;
+}
+.cart h5{
+    margin-top: -10px;
+    color: green;
+    font-size: 20px;
+}
+.buy-btn{
+    padding: 8px 15px;
+    transition: .6s;
+    font-weight: 500;
+    border: 1px solid #fe696a;
+    background-color: #fe696a;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+.person-name{
+    color: green;
+    font-size: 17px;
+    margin-top: -20px;
+    font-weight: 500;
+}
+.person-name li{
+    list-style: none;
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+.freelance-container{
+    padding: 20px 0px;
+    background-color: #F5F5F5;
+}
+.titlebar{
+    text-align: center;
+}
+.titlebar h1{
+    font-size: 40px;
+}
+.titlebar p{
+    font-size: 18px ;
+    color: #76787a;
+    font-weight: 600;
+}
+.freelancer-area{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+

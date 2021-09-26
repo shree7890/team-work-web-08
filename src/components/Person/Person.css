@@ -1,0 +1,73 @@
+.person-container{
+    display:inline-flex;
+    margin:15px 10px;
+    background-color: #fff;
+    padding:12px 10px ;
+    transition: 0.5s;
+}
+.person-container:hover{
+    box-shadow: 0px 0px 15px rgba(80, 49, 49,0.4);
+    transform: scale(1.04);
+    cursor: pointer;
+}
+.content-img img{
+    width: 260px;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.profile span{
+    margin-left: 13px;
+    color: #fe696a;
+    font-weight: 500;
+}
+.profile img{
+    width: 50px;
+    border-radius: 50%;
+}
+.deatil h5{
+    color: #777777d6;
+    font-size: 16px;
+    transition: 0.5s;
+}
+.deatil h5:hover{
+    color: #fe696a;
+    letter-spacing: 0.3px;
+}
+.deatil h4{
+    color: #777777d6;
+    font-size: 16px;
+    transition: 0.5s;
+}
+.deatil h4:hover{
+    color: #fe696a;
+    letter-spacing: 0.3px;
+}
+.deatil h3{
+    font-size: 18px;
+    color: #000000a6;
+    transition: 0.5s;
+}
+.deatil h3:hover{
+    color: #fe696a;
+}
+.item{
+    padding: 8px 25px;
+    transition: .6s;
+    font-weight: 500;
+    border: 1px solid #fe696a;
+    background-color: #fe696a;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    display:block;
+    text-align: center;
+    width: 160px;
+    margin: 10px auto;
+}
+.item:hover{
+    box-shadow: 0px 0px 15px rgba(254, 105, 106,.7);
+}
