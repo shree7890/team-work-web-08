@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Shreekanta Dash",
+        "member": "2021",
+        "salary": "800",
+        "job": "Front-end Developer",
+        "workExperience": "2 year",
+        "img": "https://image-gell.netlify.app/images/front.jpg",
+        "person": "https://image-gell.netlify.app/images/3.jpg"
+    },
+    {
+        "name": "Voorhees Jason",
+        "member": "2017",
+        "salary": "700",
+        "job": "Social Media Expert",
+        "workExperience": "3.5 years",
+        "img": "https://image-gell.netlify.app/images/social.jpg",
+        "person": "https://image-gell.netlify.app/images/2.jpg"
+    },
+    {
+        "name": "Hannah Finn",
+        "member": "2018",
+        "salary": "1500",
+        "job": "Mobile APP Development",
+        "workExperience": "3 years",
+        "img": "https://image-gell.netlify.app/images/mobile-app.jpg",
+        "person": "https://image-gell.netlify.app/images/1.jpg"
+    },
+    {
+        "name": "Aabidah Yosef",
+        "member": "2016",
+        "salary": "700",
+        "job": "Ui Designer",
+        "workExperience": "2 years",
+        "img": "https://image-gell.netlify.app/images/ui.jpg",
+        "person": "https://image-gell.netlify.app/images/5.jpg"
+    },
+    {
+        "name": "AsliSincere Firat",
+        "member": "2019",
+        "salary": "1200",
+        "job": "Graphic Designer",
+        "workExperience": "4 years",
+        "img": "https://image-gell.netlify.app/images/graphic.jpg",
+        "person": "https://image-gell.netlify.app/images/6.jpg"
+    },
+    {
+        "name": "Binita Marshal",
+        "member": "2020",
+        "salary": "900",
+        "job": "WP Developer",
+        "workExperience": "2.5 years",
+        "img": "https://image-gell.netlify.app/images/wordpress.jpg",
+        "person": "https://image-gell.netlify.app/images/7.jpg"
+    },
+    {
+        "name": "Eshaal Mehta",
+        "member": "2015",
+        "salary": "1800",
+        "job": "SEO Expert",
+        "workExperience": "4 years",
+        "img": "https://image-gell.netlify.app/images/seo.jpg",
+        "person": "https://image-gell.netlify.app/images/8.jpg"
+    },
+    {
+        "name": "Shreenondhon",
+        "member": "2021",
+        "salary": "2000",
+        "job": "Back-end Developer",
+        "workExperience": "5 years",
+        "img": "https://image-gell.netlify.app/images/backend.png",
+        "person": "https://image-gell.netlify.app/images/9.jpg"
+    },
+    {
+        "name": "Edison Bellion",
+        "member": "2014",
+        "salary": "1400",
+        "job": "Web Designer",
+        "workExperience": "3 years",
+        "img": "https://image-gell.netlify.app/images/web.jpg",
+        "person": "https://image-gell.netlify.app/images/4.jpg"
+    }
+]

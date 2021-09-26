@@ -1,0 +1,41 @@
+.project-banner{
+    text-align: center;
+    background-color: #242424de;
+    color: #fff;
+    padding: 40px 0px;
+}
+.project-banner h3{
+    color: #fe696a;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 25px;
+}
+.project-banner h1{
+    font-size: 40px;
+}
+.description{
+    width: 500px;
+    margin: 0 auto;
+    font-size: 22px;
+    font-weight: 600;
+}
+.total, .earning{
+    font-size: 20px;
+    font-weight: 600;
+}
+.view-project{
+    padding: 8px 25px;
+    transition: .6s;
+    font-weight: 500;
+    text-transform: uppercase;
+    border: 1px solid #fe696a;
+    background-color: #fe696a;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.view-project:hover{
+    box-shadow: 0px 0px 15px rgba(254, 105, 106,.7);
+}
